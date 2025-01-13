@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Fahimeh Orvati Nia / About Me"
 title_separator          : "-"
 name                     : &name "Fahimeh Orvati Nia"
-description              : &description "PhD Student @ Texas A&M University"
+description              : &description "PhD in Computer Engineering @ Texas A&M University"
 url                      : https://fahimehorvatinia.github.io # the base hostname & protocol for your site
 baseurl                  : "" # leave blank unless the site is hosted in a subdirectory
 repository               : "fahimehorvatinia/fahimehorvatinia.github.io" # update with your repository name
