@@ -7,7 +7,7 @@ author_profile: true
 
 ## About Me
 
-Hello! I’m **Fahimeh Orvati Nia**, a PhD student in **Computer Engineering** at **Texas A&M University**, where I specialize in **artificial intelligence**, **computer vision**, and **machine learning**. My journey in academia has been driven by a deep passion for using cutting-edge technology to solve real-world challenges.
+I’m **Fahimeh Orvati Nia**, a PhD student in **Computer Engineering** at **Texas A&M University**, where I specialize in **artificial intelligence**, **computer vision**, and **machine learning**. My journey in academia has been driven by a deep passion for using cutting-edge technology to solve real-world challenges.
 
 ### My Current Work
 Currently, my research focuses on:
