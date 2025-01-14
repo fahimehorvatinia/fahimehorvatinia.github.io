@@ -12,7 +12,7 @@ repository               : "fahimehorvatinia/fahimehorvatinia.github.io"
 
 # Site Author - Sidebar Information
 author:
-  avatar           : "profile.jng" # Add a profile image in the assets/images folder
+  avatar           : "profile.jpg" # Add a profile image in the assets/images folder
   name             : "Fahimeh Orvati Nia"
   pronouns         : "she/her"
   bio              : "PhD student specializing in AI, computer vision, and machine learning."
