@@ -40,7 +40,7 @@ I believe that **technology is a tool for empowerment**, and I am committed to u
 
 ### Connect with Me
 If you’re interested in learning more about my work or collaborating, feel free to reach out:
-- **Email**: [fahimehorvatinia@gmail.com](mailto:fahimehorvatinia@gmail.com)
+- **Email**: [fahimehorvatinia@tamu.com](mailto:fahimehorvatinia@tamu.com)
 - **LinkedIn**: [linkedin.com/in/fahimehorvatinia](https://linkedin.com/in/fahimehorvatinia)
 - **GitHub**: [github.com/fahimehorvatinia](https://github.com/fahimehorvatinia)
 
