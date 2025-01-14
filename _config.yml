@@ -1,108 +1,16 @@
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Fahimeh Orvati Nia / About Me"
-title_separator          : "-"
-name                     : &name "Fahimeh Orvati Nia"
-description              : &description "PhD in Computer Engineering @ Texas A&M University"
-url                      : https://fahimehorvatinia.github.io # the base hostname & protocol for your site
-baseurl                  : "" # leave blank unless the site is hosted in a subdirectory
-repository               : "fahimehorvatinia/fahimehorvatinia.github.io" # update with your repository name
+title: "Fahimeh Orvati Nia"
+name: "Fahimeh Orvati Nia"
+description: "PhD Student | AI and Computer Vision Researcher"
+url: "https://fahimehorvatinia.github.io"
+repository: "fahimehorvatinia/fahimehorvatinia.github.io"
 
-# Site Author
+# Author Info
 author:
-  avatar           : "profile.jpg"
-  name             : "Fahimeh Orvati Nia"
-  pronouns         : "she/her"
-  bio              : "PhD student @ Texas A&M University, Researcher in AI, machine learning, and computer vision with a focus on Plant Growth and Phenotyping"
-  location         : "Texas A&M University, College Station, TX"
-  employer         : "Texas A&M University"
-  email            : "fahimehorvatinia@tamu.edu"
-
-  # Academic websites
-  googlescholar    : ""
-
-
-  # Repositories and software development
-  github           : "fahimehorvatinia"
-
-  # Social media
-  linkedin         : "https://linkedin.com/in/fahimehorvatinia"
-
-# Site Settings
-teaser                   : "default-teaser.png"
-breadcrumbs              : true
-words_per_minute         : 200
-future                   : true
-read_more                : "enabled"
-
-# Atom Feed
-atom_feed:
-  hide                   : true
-
-# SEO Related
-google_site_verification : ""
-bing_site_verification   : ""
-alexa_site_verification  : ""
-yandex_site_verification : ""
-
-# Social Sharing
-social:
-  type                   : "Person"
-  name                   : "Fahimeh Orvati Nia"
-  links:
-    - "https://linkedin.com/in/fahimehorvatinia"
-    - "https://github.com/fahimehorvatinia"
-
-# Analytics
-analytics:
-  provider               : false
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-
-# Collections
-collections:
-  teaching:
-    output: false
-  publications:
-    output: false
-  portfolio:
-    output: false
-  talks:
-    output: false
-
-# Defaults for Pages and Posts
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed
-
-# Outputting
-permalink: /:categories/:title/
-timezone: Etc/UTC
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jemoji
+  avatar: "profile.jpg"
+  name: "Fahimeh Orvati Nia"
+  bio: "PhD student in Computer Engineering at Texas A&M University, specializing in AI and computer vision."
+  email: "fahimehorvatinia@gmail.com"
+  location: "Texas A&M University, College Station, TX"
+  linkedin: "https://linkedin.com/in/fahimehorvatinia"
+  github: "fahimehorvatinia"
