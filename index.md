@@ -12,7 +12,7 @@ sidebar: false
   </div>
   <div style="flex: 1;">
     <h2 style="margin-top: 0; margin-bottom: 10px;">Fahimeh Orvati Nia</h2>
-    <p style="margin: 5px 0;">Texas A&M University</p>
+    <p style="margin: 5px 0;"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true" title="Location"></i>Texas A&M University</p>
     <ul class="social-icons" style="margin: 5px 0; padding: 0; list-style: none; display: flex; gap: 12px; align-items: center;">
       <li>
         <a href="mailto:fahimehorvatinia@tamu.edu" aria-label="Email" title="Email">
