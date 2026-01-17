@@ -27,24 +27,50 @@ I'm a PhD student in Computer Engineering at Texas A&M University, advised by Dr
 
 ## Publications
 
-**Traffic-aware pedestrian intention prediction**  
-Fahimeh Orvati Nia, Hai Lin  
-*American Control Conference (ACC), 2025*  
-[arXiv:2507.12433](https://arxiv.org/abs/2507.12433)
+<div style="display:flex; gap:16px; align-items:flex-start; margin: 14px 0;">
+  <div style="flex: 0 0 120px;">
+    <img src="{{ '/images/acc.jpg' | relative_url }}" alt="ACC 2025" style="width:120px; height:80px; object-fit:cover; border-radius:8px; border:1px solid #e6e6e6;">
+  </div>
+  <div style="flex: 1;">
+    <div><strong>Traffic-aware pedestrian intention prediction</strong></div>
+    <div>Fahimeh Orvati Nia, Hai Lin</div>
+    <div><em>American Control Conference (ACC), 2025</em></div>
+    <div><a href="https://arxiv.org/abs/2507.12433">arXiv:2507.12433</a></div>
+  </div>
+</div>
 
-**Neighborhood Feature Pooling for Remote Sensing Image Classification**  
-Fahimeh Orvati Nia, Joshua Peeples, et al.  
-*WACV 2026 Workshop on Earth Observation*  
-[arXiv:2510.25077](https://arxiv.org/abs/2510.25077)
+<div style="display:flex; gap:16px; align-items:flex-start; margin: 14px 0;">
+  <div style="flex: 0 0 120px;">
+    <img src="{{ '/images/wacv.png' | relative_url }}" alt="WACV 2026 Workshop" style="width:120px; height:80px; object-fit:cover; border-radius:8px; border:1px solid #e6e6e6;">
+  </div>
+  <div style="flex: 1;">
+    <div><strong>Neighborhood Feature Pooling for Remote Sensing Image Classification</strong></div>
+    <div>Fahimeh Orvati Nia, Joshua Peeples, et al.</div>
+    <div><em>WACV 2026 Workshop on Earth Observation</em></div>
+    <div><a href="https://arxiv.org/abs/2510.25077">arXiv:2510.25077</a></div>
+  </div>
+</div>
 
-**Evaluating GAN-LSTM for Smart Meter Anomaly Detection in Power Systems**  
-Fahimeh Orvati Nia, S. Salehi, J. Peeples  
-*TPEC 2026*  
-[arXiv:2601.09701](https://arxiv.org/abs/2601.09701)
+<div style="display:flex; gap:16px; align-items:flex-start; margin: 14px 0;">
+  <div style="flex: 0 0 120px;">
+    <img src="{{ '/images/tpec.jpg' | relative_url }}" alt="TPEC 2026" style="width:120px; height:80px; object-fit:cover; border-radius:8px; border:1px solid #e6e6e6;">
+  </div>
+  <div style="flex: 1;">
+    <div><strong>Evaluating GAN-LSTM for Smart Meter Anomaly Detection in Power Systems</strong></div>
+    <div>Fahimeh Orvati Nia, S. Salehi, J. Peeples</div>
+    <div><em>TPEC 2026</em></div>
+    <div><a href="https://arxiv.org/abs/2601.09701">arXiv:2601.09701</a></div>
+  </div>
+</div>
 
-**Integrating Multispectral Imaging and Low-Field Magnetic Resonance Imaging for Comprehensive Phenotyping of Horticultural Crops**  
-A. McFarland, L. Rossi, F. Nia, J. Peeples, A. Svyanek  
-*HORTSCIENCE 60 (7), 2025*
+<div style="display:flex; gap:16px; align-items:flex-start; margin: 14px 0;">
+  <div style="flex: 0 0 120px;"></div>
+  <div style="flex: 1;">
+    <div><strong>Integrating Multispectral Imaging and Low-Field Magnetic Resonance Imaging for Comprehensive Phenotyping of Horticultural Crops</strong></div>
+    <div>A. McFarland, L. Rossi, F. Nia, J. Peeples, A. Svyanek</div>
+    <div><em>HORTSCIENCE 60 (7), 2025</em></div>
+  </div>
+</div>
 
 ## Experience
 
