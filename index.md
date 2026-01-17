@@ -13,13 +13,33 @@ sidebar: false
   <div style="flex: 1;">
     <h2 style="margin-top: 0; margin-bottom: 10px;">Fahimeh Orvati Nia</h2>
     <p style="margin: 5px 0;">Texas A&M University</p>
-    <p style="margin: 5px 0; font-size: 0.95em;">
-      <a href="mailto:fahimehorvatinia@tamu.edu" aria-label="Email" title="Email"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>&nbsp;
-      <a href="https://github.com/fahimehorvatinia" aria-label="GitHub" title="GitHub"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>&nbsp;
-      <a href="https://www.linkedin.com/in/fahimeh-orvati-nia-40b727392/" aria-label="LinkedIn" title="LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i></a>&nbsp;
-      <a href="https://scholar.google.com/citations?hl=en&user=NI_iB4sAAAAJ" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>&nbsp;
-      <a href="{{ '/files/Fahimeh_Orvati_Nia_CV.pdf' | relative_url }}" aria-label="CV (PDF)" title="CV (PDF)"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-    </p>
+    <ul class="social-icons" style="margin: 5px 0; padding: 0; list-style: none; display: flex; gap: 12px; align-items: center;">
+      <li>
+        <a href="mailto:fahimehorvatinia@tamu.edu" aria-label="Email" title="Email">
+          <i class="fas fa-envelope" aria-hidden="true"></i><span class="sr-only">Email</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/fahimehorvatinia" aria-label="GitHub" title="GitHub">
+          <i class="fab fa-github" aria-hidden="true"></i><span class="sr-only">GitHub</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/fahimeh-orvati-nia-40b727392/" aria-label="LinkedIn" title="LinkedIn">
+          <i class="fab fa-linkedin" aria-hidden="true"></i><span class="sr-only">LinkedIn</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://scholar.google.com/citations?hl=en&user=NI_iB4sAAAAJ" aria-label="Google Scholar" title="Google Scholar">
+          <i class="ai ai-google-scholar" aria-hidden="true"></i><span class="sr-only">Google Scholar</span>
+        </a>
+      </li>
+      <li>
+        <a href="{{ '/files/Fahimeh_Orvati_Nia_CV.pdf' | relative_url }}" aria-label="CV (PDF)" title="CV (PDF)">
+          <i class="far fa-file-pdf" aria-hidden="true"></i><span class="sr-only">CV (PDF)</span>
+        </a>
+      </li>
+    </ul>
   </div>
 </div>
 
