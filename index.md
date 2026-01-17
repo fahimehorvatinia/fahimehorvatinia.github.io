@@ -76,9 +76,13 @@ In the future, I aim to develop <strong>smart automated plant phenotyping system
 
 ## Honors and Awards
 
-- National full undergraduate scholarship in Iran
-- Ranked top in Computational Intelligence and Communication Systems courses during B.Sc.
 - Top rank in Iranian National Entrance Exam for Master's programs
+- PlantCV Workshop + NAPPN 2026 Travel Award (up to $2,000)
+
+## Talks and Presentations
+
+- NAPPN 2026 lightning talk
+- AI in Ag 2026 presentation
 
 ## Experience
 
