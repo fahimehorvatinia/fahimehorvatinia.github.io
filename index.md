@@ -47,12 +47,12 @@ I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a
 
 ## Research Focus
 
-- <strong>Computer vision</strong> for <strong>2D multispectral imaging</strong> plant phenotyping
-- <strong>Image classification</strong> and <strong>texture pooling</strong>
+- <strong>Computer vision</strong> for <strong>2D multispectral</strong> plant phenotyping
+- <strong>Image classification</strong> and <strong>feature aggregation (pooling)</strong>
 - <strong>Machine learning</strong> for agricultural imaging and decision support
-- <strong>Human behavior modeling</strong> and pedestrian intention prediction
+- <strong>Human behavior modeling</strong> and pedestrian intent prediction
 
-In the future, I aim to develop <strong>smart automated plant phenotyping systems</strong> for agricultural benefit.
+Looking ahead, I aim to develop <strong>smart, automated plant phenotyping systems</strong> that support data-driven agriculture.
 
 ## Publications
 
