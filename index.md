@@ -6,9 +6,22 @@ author_profile: false
 sidebar: false
 ---
 
-## Fahimeh Orvati Nia
-Texas A&M University  
-[fahimehorvatinia@tamu.edu](mailto:fahimehorvatinia@tamu.edu) | [GitHub](https://github.com/fahimehorvatinia) | [LinkedIn](https://www.linkedin.com/in/fahimeh-orvati-nia/) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=NI_iB4sAAAAJ) | [CV (PDF)](files/Fahimeh_Orvati_Nia_CV.pdf)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 150px; margin-right: 30px;">
+    <img src="/images/profile.jpg" alt="Fahimeh Orvati Nia" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;">
+  </div>
+  <div style="flex: 1;">
+    <h2 style="margin-top: 0; margin-bottom: 10px;">Fahimeh Orvati Nia</h2>
+    <p style="margin: 5px 0;">Texas A&M University</p>
+    <p style="margin: 5px 0; font-size: 0.95em;">
+      <a href="mailto:fahimehorvatinia@tamu.edu">Email</a> | 
+      <a href="https://github.com/fahimehorvatinia">GitHub</a> | 
+      <a href="https://www.linkedin.com/in/fahimeh-orvati-nia/">LinkedIn</a> | 
+      <a href="https://scholar.google.com/citations?hl=en&user=NI_iB4sAAAAJ">Google Scholar</a> | 
+      <a href="/files/Fahimeh_Orvati_Nia_CV.pdf">CV (PDF)</a>
+    </p>
+  </div>
+</div>
 
 I'm a PhD student in Computer Engineering at Texas A&M University, advised by Dr. Joshua Peeples. My research focuses on computer vision, machine learning, and their applications in agricultural imaging and human behavior modeling. I earned my Master's degree in Electrical Engineering from the University of Notre Dame in 2025 and my Bachelor's degree in Electrical Engineering from Amirkabir University of Technology in 2020.
 
