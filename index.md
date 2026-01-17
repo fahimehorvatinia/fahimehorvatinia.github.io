@@ -62,7 +62,7 @@ In the future, I aim to develop <strong>smart automated plant phenotyping system
   </div>
   <div style="flex: 1;">
     <div><a href="https://arxiv.org/abs/2507.12433"><strong>Traffic-aware pedestrian intention prediction</strong></a></div>
-    <div>Fahimeh Orvati Nia, Hai Lin</div>
+    <div><strong>Fahimeh Orvati Nia</strong>, Hai Lin</div>
     <div><em>American Control Conference (ACC), 2025</em></div>
   </div>
 </div>
@@ -73,7 +73,7 @@ In the future, I aim to develop <strong>smart automated plant phenotyping system
   </div>
   <div style="flex: 1;">
     <div><a href="https://arxiv.org/abs/2510.25077"><strong>Neighborhood Feature Pooling for Remote Sensing Image Classification</strong></a></div>
-    <div>Fahimeh Orvati Nia, Joshua Peeples, et al.</div>
+    <div><strong>Fahimeh Orvati Nia</strong>, Joshua Peeples, et al.</div>
     <div><em>WACV 2026 Workshop on Earth Observation</em></div>
   </div>
 </div>
@@ -84,7 +84,7 @@ In the future, I aim to develop <strong>smart automated plant phenotyping system
   </div>
   <div style="flex: 1;">
     <div><a href="https://arxiv.org/abs/2601.09701"><strong>Evaluating GAN-LSTM for Smart Meter Anomaly Detection in Power Systems</strong></a></div>
-    <div>Fahimeh Orvati Nia, S. Salehi, J. Peeples</div>
+    <div><strong>Fahimeh Orvati Nia</strong>, S. Salehi, J. Peeples</div>
     <div><em>TPEC 2026</em></div>
   </div>
 </div>
