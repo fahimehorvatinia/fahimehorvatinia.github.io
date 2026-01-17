@@ -5,7 +5,7 @@ locale                   : "en-US"
 title                    : "Fahimeh Orvati Nia"
 title_separator          : "-"
 name                     : &name "Fahimeh Orvati Nia"
-description              : &description "PhD Student | AI, Computer Vision, and Machine Learning Researcher"
+description              : &description "PhD Student | Computer Vision and Machine Learning Researcher"
 url                      : "https://fahimehorvatinia.github.io" # Replace with your GitHub Pages URL
 baseurl                  : "" # Leave blank if hosted at the root of your GitHub Pages site
 repository               : "fahimehorvatinia/fahimehorvatinia.github.io"
@@ -15,14 +15,15 @@ author:
   avatar           : "profile.jpg" # Add a profile image in the assets/images folder
   name             : "Fahimeh Orvati Nia"
   pronouns         : "she/her"
-  bio              : "PhD student specializing in AI, computer vision, and machine learning."
+  bio              : "PhD Student | Computer Vision and Machine Learning Researcher"
   location         : "Texas A&M University, College Station, TX"
   employer         : "Texas A&M University"
-  email            : "fahimehorvatinia1998@gmail.com"
+  email            : "fahimehorvatinia@tamu.edu"
 
   # Academic websites
   github           : "fahimehorvatinia"
-  linkedin         : "https://linkedin.com/in/fahimehorvatinia"
+  linkedin         : "fahimeh-orvati-nia"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=NI_iB4sAAAAJ"
 
 # Publication Category - Categories and Headings
 publication_category:

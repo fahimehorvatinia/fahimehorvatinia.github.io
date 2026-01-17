@@ -7,43 +7,39 @@ author_profile: true
 
 ## About Me
 
-I’m **Fahimeh Orvati Nia**, a PhD student in **Computer Engineering** at **Texas A&M University**, where I specialize in **artificial intelligence**, **computer vision**, and **machine learning**. My journey in academia has been driven by a deep passion for using cutting-edge technology to solve real-world challenges.
+I am a PhD student in the Department of Computer Engineering at Texas A&M University. My research focuses on computer vision, machine learning, and their applications in agricultural imaging and human behavior modeling.
 
-### My Current Work
-Currently, my research focuses on:
-- **Image Processing and Computer Vision**: I am working on innovative techniques for **plant growth and phenotyping**, leveraging advanced AI models to analyze and predict plant development patterns.
-- **Generative AI**: I explore applications of generative adversarial networks (GANs) for **anomaly detection** and data generation tasks.
-- **Graph Neural Networks**: My previous work includes developing GNN-based systems for **pedestrian intention prediction**, with applications in smart cities and autonomous systems.
+## Education
 
-### My Background
-I completed my Master of Science in **Electrical Engineering** at the **University of Notre Dame**, where I delved into:
-- Building GAN-based systems for detecting anomalies in time-series data.
-- Applying graph neural networks for predictive modeling in human behavior.
+**PhD, Computer Engineering** (In Progress)  
+Texas A&M University, College Station, TX  
+*Jan 2025 -- Present*  
+Research Areas: AI, Computer Vision, Agricultural Imaging, Graph Neural Networks  
+Affiliated with Texas A&M AgriLife Research Institute
 
-Prior to that, I earned my Bachelor of Science in **Electrical Engineering (Control)** from **Amirkabir University of Technology**, where I gained a strong foundation in systems modeling and control theory.
+**M.Sc., Electrical Engineering**  
+University of Notre Dame, IN, USA  
+*Aug 2023 -- Jan 2025*  
+Thesis: Time-series anomaly detection using GANs and pedestrian intention prediction with GNNs
 
-### Skills & Expertise
-Here are some of the areas where I excel:
-- **Programming**: Python, MATLAB, TensorFlow, PyTorch, C++.
-- **AI & Machine Learning**: Generative AI, Graph Neural Networks, Deep Learning Models.
-- **Embedded Systems**: Raspberry Pi, STM32, Arduino.
-- **Computer Vision Tools**: OpenCV, image preprocessing, and feature extraction.
+**B.Sc., Electrical Engineering (Control)**  
+Amirkabir University of Technology, Tehran, Iran  
+*Sept 2016 -- Jan 2020*
 
-### Beyond Research
-Outside of academics, I enjoy:
-- **Collaborating** with interdisciplinary teams to tackle complex problems.
-- **Teaching and Mentoring**: Sharing knowledge and empowering others to explore the fascinating world of AI.
-- **Exploring New Ideas**: I am always curious about integrating technology into fields like public health, neuroscience, and robotics.
+## Research Experience
 
-### Why I Do What I Do
-I believe that **technology is a tool for empowerment**, and I am committed to using my skills to make a positive impact in the world. Whether it's improving agricultural systems, enhancing public safety, or advancing medical research, my goal is to bridge the gap between innovation and application.
+**Research Assistant, Texas A&M AgriLife Research**  
+*Jan 2025 -- Present*  
+Working on computer vision and AI-based analysis of agricultural multispectral imagery.
 
-### Connect with Me
-If you’re interested in learning more about my work or collaborating, feel free to reach out:
-- **Email**: [fahimehorvatinia@tamu.com](mailto:fahimehorvatinia@tamu.com)
-- **LinkedIn**: [linkedin.com/in/fahimehorvatinia](https://linkedin.com/in/fahimehorvatinia)
-- **GitHub**: [github.com/fahimehorvatinia](https://github.com/fahimehorvatinia)
+**Research Assistant, University of Tehran**  
+*Jan 2022 -- June 2023*  
+Worked on machine learning for the classification and clustering of musical instruments.
 
----
+## Services
+
+**Peer Reviewer**  
+- American Control Conference (ACC) 2025
+- Conference on Control Technology and Applications (CCTA) 2025
 
 

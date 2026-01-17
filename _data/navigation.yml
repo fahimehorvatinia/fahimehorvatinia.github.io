@@ -1,11 +1,9 @@
 main:
   - title: "Home"
     url: /
-  - title: "About Me"
+  - title: "About"
     url: /aboutme/
-  - title: "Research"
-    url: /research/
-  - title: "Publication & Presentation"
-    url: /publication-presentation/
+  - title: "Publications"
+    url: /publications/
   - title: "CV"
     url: /cv/
