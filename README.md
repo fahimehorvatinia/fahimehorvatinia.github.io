@@ -37,11 +37,11 @@ A. McFarland, L. Rossi, F. Nia, J. Peeples, A. Svyanek
 
 **Research Assistant**  
 Texas A&M AgriLife Research  
-*Jan 2025 -- Present*
+*Jan 2025, Present*
 
 **Teaching Assistant**  
 University of Notre Dame  
-*Fall 2023 -- Spring 2024*  
+*Fall 2023, Spring 2024*  
 Courses: Introduction to Electrical Engineering, Signals and Systems
 
 **Peer Reviewer**  
