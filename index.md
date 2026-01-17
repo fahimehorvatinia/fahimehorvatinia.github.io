@@ -14,11 +14,11 @@ sidebar: false
     <h2 style="margin-top: 0; margin-bottom: 10px;">Fahimeh Orvati Nia</h2>
     <p style="margin: 5px 0;">Texas A&M University</p>
     <p style="margin: 5px 0; font-size: 0.95em;">
-      <a href="mailto:fahimehorvatinia@tamu.edu">Email</a>,
-      <a href="https://github.com/fahimehorvatinia">GitHub</a>,
-      <a href="https://www.linkedin.com/in/fahimeh-orvati-nia-40b727392/">LinkedIn</a>,
-      <a href="https://scholar.google.com/citations?hl=en&user=NI_iB4sAAAAJ">Google Scholar</a>,
-      <a href="{{ '/files/Fahimeh_Orvati_Nia_CV.pdf' | relative_url }}">CV (PDF)</a>
+      <a href="mailto:fahimehorvatinia@tamu.edu" aria-label="Email">✉️</a>
+      <a href="https://github.com/fahimehorvatinia" aria-label="GitHub">🐙</a>
+      <a href="https://www.linkedin.com/in/fahimeh-orvati-nia-40b727392/" aria-label="LinkedIn">💼</a>
+      <a href="https://scholar.google.com/citations?hl=en&user=NI_iB4sAAAAJ" aria-label="Google Scholar">🎓</a>
+      <a href="{{ '/files/Fahimeh_Orvati_Nia_CV.pdf' | relative_url }}" aria-label="CV (PDF)">📄</a>
     </p>
   </div>
 </div>
