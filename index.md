@@ -8,17 +8,17 @@ sidebar: false
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 30px;">
-    <img src="/images/profile.jpg" alt="Fahimeh Orvati Nia" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;">
+    <img src="{{ '/images/profile.jpg' | relative_url }}" alt="Fahimeh Orvati Nia" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;">
   </div>
   <div style="flex: 1;">
     <h2 style="margin-top: 0; margin-bottom: 10px;">Fahimeh Orvati Nia</h2>
     <p style="margin: 5px 0;">Texas A&M University</p>
     <p style="margin: 5px 0; font-size: 0.95em;">
-      <a href="mailto:fahimehorvatinia@tamu.edu">Email</a> | 
-      <a href="https://github.com/fahimehorvatinia">GitHub</a> | 
-      <a href="https://www.linkedin.com/in/fahimeh-orvati-nia/">LinkedIn</a> | 
-      <a href="https://scholar.google.com/citations?hl=en&user=NI_iB4sAAAAJ">Google Scholar</a> | 
-      <a href="/files/Fahimeh_Orvati_Nia_CV.pdf">CV (PDF)</a>
+      <a href="mailto:fahimehorvatinia@tamu.edu">Email</a>,
+      <a href="https://github.com/fahimehorvatinia">GitHub</a>,
+      <a href="https://www.linkedin.com/in/fahimeh-orvati-nia/">LinkedIn</a>,
+      <a href="https://scholar.google.com/citations?hl=en&user=NI_iB4sAAAAJ">Google Scholar</a>,
+      <a href="{{ '/files/Fahimeh_Orvati_Nia_CV.pdf' | relative_url }}">CV (PDF)</a>
     </p>
   </div>
 </div>
@@ -62,4 +62,4 @@ LXAI-NeurIPS 2025, IEEE RA-L, ICRA 2026, ACC 2025, CCTA 2025
 
 ## Student Mentoring
 
-Chloe Tiley, Sophia Martinez-Badiillo, Michael Morse, Amran Kassaye, Nazar Oladepo
+Chloe Tiley, Sophia Martinez-Badillo, Michael Morse, Amran Kassaye, Nazar Oladepo
