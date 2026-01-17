@@ -101,8 +101,8 @@ In the future, I aim to develop <strong>smart automated plant phenotyping system
 
 ## Talks and Presentations
 
-- NAPPN 2026 lightning talk
-- AI in Ag 2026 presentation
+- [NAPPN 2026 lightning talk](https://www.plantphenotyping.org/conference-home)
+- [AI in Ag 2026 presentation](https://calendar.ncsu.edu/event/ai-in-agriculture-conference)
 
 ## Experience
 
