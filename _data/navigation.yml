@@ -1,9 +1,3 @@
 main:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /aboutme/
-  - title: "Publications"
-    url: /publications/
-  - title: "CV"
-    url: /cv/
