@@ -63,15 +63,6 @@ I'm a PhD student in Computer Engineering at Texas A&M University, advised by Dr
   </div>
 </div>
 
-<div style="display:flex; gap:16px; align-items:flex-start; margin: 14px 0;">
-  <div style="flex: 0 0 120px;"></div>
-  <div style="flex: 1;">
-    <div><strong>Integrating Multispectral Imaging and Low-Field Magnetic Resonance Imaging for Comprehensive Phenotyping of Horticultural Crops</strong></div>
-    <div>A. McFarland, L. Rossi, F. Nia, J. Peeples, A. Svyanek</div>
-    <div><em>HORTSCIENCE 60 (7), 2025</em></div>
-  </div>
-</div>
-
 ## Experience
 
 **Research Assistant**  
