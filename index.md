@@ -16,7 +16,7 @@ sidebar: false
     <p style="margin: 5px 0; font-size: 0.95em;">
       <a href="mailto:fahimehorvatinia@tamu.edu">Email</a>,
       <a href="https://github.com/fahimehorvatinia">GitHub</a>,
-      <a href="https://www.linkedin.com/in/fahimeh-orvati-nia/">LinkedIn</a>,
+      <a href="https://www.linkedin.com/in/fahimeh-orvati-nia-40b727392/">LinkedIn</a>,
       <a href="https://scholar.google.com/citations?hl=en&user=NI_iB4sAAAAJ">Google Scholar</a>,
       <a href="{{ '/files/Fahimeh_Orvati_Nia_CV.pdf' | relative_url }}">CV (PDF)</a>
     </p>
@@ -27,8 +27,9 @@ I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a
 
 ## Research Focus
 
-- <strong>Computer vision</strong> and <strong>machine learning</strong> for agricultural imaging
-- <strong>Plant phenotyping</strong> using multispectral and vision-based sensing
+- <strong>Computer vision</strong> for <strong>2D multispectral imaging</strong> plant phenotyping
+- <strong>Image classification</strong> and <strong>texture pooling</strong>
+- <strong>Machine learning</strong> for agricultural imaging and decision support
 - <strong>Human behavior modeling</strong> and pedestrian intention prediction
 
 In the future, I aim to develop <strong>smart automated plant phenotyping systems</strong> for agricultural benefit.
