@@ -41,10 +41,9 @@ In the future, I aim to develop <strong>smart automated plant phenotyping system
     <img src="{{ '/images/acc.jpg' | relative_url }}" alt="ACC 2025" style="width:120px; height:80px; object-fit:cover; border-radius:8px; border:1px solid #e6e6e6;">
   </div>
   <div style="flex: 1;">
-    <div><strong>Traffic-aware pedestrian intention prediction</strong></div>
+    <div><a href="https://arxiv.org/abs/2507.12433"><strong>Traffic-aware pedestrian intention prediction</strong></a></div>
     <div>Fahimeh Orvati Nia, Hai Lin</div>
     <div><em>American Control Conference (ACC), 2025</em></div>
-    <div><a href="https://arxiv.org/abs/2507.12433">arXiv:2507.12433</a></div>
   </div>
 </div>
 
@@ -53,10 +52,9 @@ In the future, I aim to develop <strong>smart automated plant phenotyping system
     <img src="{{ '/images/wacv.png' | relative_url }}" alt="WACV 2026 Workshop" style="width:120px; height:80px; object-fit:cover; border-radius:8px; border:1px solid #e6e6e6;">
   </div>
   <div style="flex: 1;">
-    <div><strong>Neighborhood Feature Pooling for Remote Sensing Image Classification</strong></div>
+    <div><a href="https://arxiv.org/abs/2510.25077"><strong>Neighborhood Feature Pooling for Remote Sensing Image Classification</strong></a></div>
     <div>Fahimeh Orvati Nia, Joshua Peeples, et al.</div>
     <div><em>WACV 2026 Workshop on Earth Observation</em></div>
-    <div><a href="https://arxiv.org/abs/2510.25077">arXiv:2510.25077</a></div>
   </div>
 </div>
 
@@ -65,10 +63,9 @@ In the future, I aim to develop <strong>smart automated plant phenotyping system
     <img src="{{ '/images/tpec.jpg' | relative_url }}" alt="TPEC 2026" style="width:120px; height:80px; object-fit:cover; border-radius:8px; border:1px solid #e6e6e6;">
   </div>
   <div style="flex: 1;">
-    <div><strong>Evaluating GAN-LSTM for Smart Meter Anomaly Detection in Power Systems</strong></div>
+    <div><a href="https://arxiv.org/abs/2601.09701"><strong>Evaluating GAN-LSTM for Smart Meter Anomaly Detection in Power Systems</strong></a></div>
     <div>Fahimeh Orvati Nia, S. Salehi, J. Peeples</div>
     <div><em>TPEC 2026</em></div>
-    <div><a href="https://arxiv.org/abs/2601.09701">arXiv:2601.09701</a></div>
   </div>
 </div>
 
