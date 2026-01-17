@@ -34,11 +34,6 @@ I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a
 
 In the future, I aim to develop <strong>smart automated plant phenotyping systems</strong> for agricultural benefit.
 
-## Certifications
-
-- <a href="https://coursera.org/share/0715ffa61acd34c9413973a69ad62c31"><strong>Neural Networks and Deep Learning</strong></a>, DeepLearning.AI (Coursera), Oct 21, 2021
-- <a href="https://coursera.org/share/43254a83148164e470e186f53668b07c"><strong>Machine Learning</strong></a>, Stanford University (Coursera), Oct 17, 2021
-
 ## Publications
 
 <div style="display:flex; gap:16px; align-items:flex-start; margin: 14px 0;">
@@ -73,6 +68,17 @@ In the future, I aim to develop <strong>smart automated plant phenotyping system
     <div><em>TPEC 2026</em></div>
   </div>
 </div>
+
+## Certifications
+
+- <a href="https://coursera.org/share/0715ffa61acd34c9413973a69ad62c31"><strong>Neural Networks and Deep Learning</strong></a>, DeepLearning.AI (Coursera), Oct 21, 2021
+- <a href="https://coursera.org/share/43254a83148164e470e186f53668b07c"><strong>Machine Learning</strong></a>, Stanford University (Coursera), Oct 17, 2021
+
+## Honors and Awards
+
+- National full undergraduate scholarship in Iran
+- Ranked top in Computational Intelligence and Communication Systems courses during B.Sc.
+- Top rank in Iranian National Entrance Exam for Master's programs
 
 ## Experience
 
