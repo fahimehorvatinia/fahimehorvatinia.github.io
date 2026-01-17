@@ -8,7 +8,7 @@ sidebar: false
 
 ## Fahimeh Orvati Nia
 Texas A&M University  
-[fahimehorvatinia@tamu.edu](mailto:fahimehorvatinia@tamu.edu) | [GitHub](https://github.com/fahimehorvatinia) | [LinkedIn](https://www.linkedin.com/in/fahimeh-orvati-nia/) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=NI_iB4sAAAAJ) | [CV](files/Fahimeh_Orvati_Nia_CV.pdf)
+[fahimehorvatinia@tamu.edu](mailto:fahimehorvatinia@tamu.edu) | [GitHub](https://github.com/fahimehorvatinia) | [LinkedIn](https://www.linkedin.com/in/fahimeh-orvati-nia/) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=NI_iB4sAAAAJ) | [CV (PDF)](files/Fahimeh_Orvati_Nia_CV.pdf)
 
 I'm a PhD student in Computer Engineering at Texas A&M University, advised by Dr. Joshua Peeples. My research focuses on computer vision, machine learning, and their applications in agricultural imaging and human behavior modeling. I earned my Master's degree in Electrical Engineering from the University of Notre Dame in 2025 and my Bachelor's degree in Electrical Engineering from Amirkabir University of Technology in 2020.
 
