@@ -23,7 +23,15 @@ sidebar: false
   </div>
 </div>
 
-I'm a PhD student in Computer Engineering at Texas A&M University, advised by Dr. Joshua Peeples. My research focuses on computer vision, machine learning, and their applications in agricultural imaging and human behavior modeling. I earned my Master's degree in Electrical Engineering from the University of Notre Dame in 2025 and my Bachelor's degree in Electrical Engineering from Amirkabir University of Technology in 2020.
+I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a href="https://engineering.tamu.edu/electrical/profiles/peeples-joshua.html">Joshua Peeples</a>, and affiliated with the <a href="https://avll.engr.tamu.edu/">Advanced Vision and Learning Lab (AVLL)</a>. I earned my Master's degree in Electrical Engineering from the University of Notre Dame in 2025 and my Bachelor's degree in Electrical Engineering from Amirkabir University of Technology in 2020.
+
+## Research Focus
+
+- <strong>Computer vision</strong> and <strong>machine learning</strong> for agricultural imaging
+- <strong>Plant phenotyping</strong> using multispectral and vision-based sensing
+- <strong>Human behavior modeling</strong> and pedestrian intention prediction
+
+In the future, I aim to develop <strong>smart automated plant phenotyping systems</strong> for agricultural benefit.
 
 ## Publications
 
