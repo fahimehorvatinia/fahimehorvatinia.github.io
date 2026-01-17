@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: "Fahimeh Orvati Nia"
+title: "Fahimeh Orvati Nia's Homepage"
 description: "PhD Student | Computer Vision and Machine Learning Researcher"
 author_profile: false
 sidebar: false
