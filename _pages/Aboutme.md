@@ -28,7 +28,7 @@ Amirkabir University of Technology, Tehran, Iran
 
 ## Research Experience
 
-**Research Assistant, Texas A&M AgriLife Research**  
+**Research Assistant, [Texas A&M AgriLife Research](https://agrilifepeople.tamu.edu/people/view/38586)**  
 *Jan 2025 -- Present*  
 Working on computer vision and AI-based analysis of agricultural multispectral imagery.
 

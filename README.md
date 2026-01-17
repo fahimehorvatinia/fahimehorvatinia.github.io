@@ -36,7 +36,7 @@ A. McFarland, L. Rossi, F. Nia, J. Peeples, A. Svyanek
 ## Experience
 
 **Research Assistant**  
-Texas A&M AgriLife Research  
+[Texas A&M AgriLife Research](https://agrilifepeople.tamu.edu/people/view/38586)  
 *Jan 2025, Present*
 
 **Teaching Assistant**  

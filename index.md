@@ -23,7 +23,7 @@ sidebar: false
   </div>
 </div>
 
-I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a href="https://engineering.tamu.edu/electrical/profiles/peeples-joshua.html">Joshua Peeples</a>, and affiliated with the <a href="https://avll.engr.tamu.edu/">Advanced Vision and Learning Lab (AVLL)</a>. I earned my Master's degree in Electrical Engineering from the <a href="https://www.nd.edu/">University of Notre Dame</a> in 2025 and my Bachelor's degree in Electrical Engineering from Amirkabir University of Technology in 2020.
+I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a href="https://engineering.tamu.edu/electrical/profiles/peeples-joshua.html">Dr. Joshua Peeples</a>, and affiliated with the <a href="https://avll.engr.tamu.edu/">Advanced Vision and Learning Lab (AVLL)</a>. I earned my Master's degree in Electrical Engineering from the <a href="https://www.nd.edu/">University of Notre Dame</a> in 2025 and my Bachelor's degree in Electrical Engineering from Amirkabir University of Technology in 2020.
 
 ## Research Focus
 
@@ -77,7 +77,7 @@ In the future, I aim to develop <strong>smart automated plant phenotyping system
 ## Experience
 
 **Research Assistant**  
-Texas A&M AgriLife Research  
+<a href="https://agrilifepeople.tamu.edu/people/view/38586">Texas A&M AgriLife Research</a>  
 *Jan 2025, Present*
 
 **Teaching Assistant**  
