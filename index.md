@@ -14,11 +14,11 @@ sidebar: false
     <h2 style="margin-top: 0; margin-bottom: 10px;">Fahimeh Orvati Nia</h2>
     <p style="margin: 5px 0;">Texas A&M University</p>
     <p style="margin: 5px 0; font-size: 0.95em;">
-      <a href="mailto:fahimehorvatinia@tamu.edu" aria-label="Email">✉️</a>
-      <a href="https://github.com/fahimehorvatinia" aria-label="GitHub">🐙</a>
-      <a href="https://www.linkedin.com/in/fahimeh-orvati-nia-40b727392/" aria-label="LinkedIn">💼</a>
-      <a href="https://scholar.google.com/citations?hl=en&user=NI_iB4sAAAAJ" aria-label="Google Scholar">🎓</a>
-      <a href="{{ '/files/Fahimeh_Orvati_Nia_CV.pdf' | relative_url }}" aria-label="CV (PDF)">📄</a>
+      <a href="mailto:fahimehorvatinia@tamu.edu" aria-label="Email" title="Email"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>&nbsp;
+      <a href="https://github.com/fahimehorvatinia" aria-label="GitHub" title="GitHub"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>&nbsp;
+      <a href="https://www.linkedin.com/in/fahimeh-orvati-nia-40b727392/" aria-label="LinkedIn" title="LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i></a>&nbsp;
+      <a href="https://scholar.google.com/citations?hl=en&user=NI_iB4sAAAAJ" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>&nbsp;
+      <a href="{{ '/files/Fahimeh_Orvati_Nia_CV.pdf' | relative_url }}" aria-label="CV (PDF)" title="CV (PDF)"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
     </p>
   </div>
 </div>
