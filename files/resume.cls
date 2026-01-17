@@ -67,6 +67,8 @@
 \newenvironment{rSection}[1]{%
   \section*{#1}%
 }{%
-  \vspace{0.2em}%
+  \vspace{0.3em}%
+  \hrule%
+  \vspace{0.6em}%
 }
 
