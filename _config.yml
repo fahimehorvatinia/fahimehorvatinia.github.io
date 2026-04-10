@@ -12,7 +12,6 @@ repository               : "fahimehorvatinia/fahimehorvatinia.github.io"
 
 # Site Author - Sidebar Information
 author:
-  avatar           : "profile.jpg" # Add a profile image in the assets/images folder
   name             : "Fahimeh Orvati Nia"
   pronouns         : "she/her"
   bio              : "PhD Student | Computer Vision and Machine Learning Researcher"
@@ -55,7 +54,6 @@ twitter:
   username               : "fahimehorvatinia"
 facebook:
   username               :
-og_image                 : "profile.png" # Default social share image
 
 # Analytics
 analytics:
