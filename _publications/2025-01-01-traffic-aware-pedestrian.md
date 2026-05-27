@@ -7,6 +7,7 @@ excerpt: 'We introduce a traffic-aware graph neural network architecture (TA-STG
 date: 2025-01-01
 venue: 'American Control Conference (ACC) 2025'
 paperurl: 'https://arxiv.org/abs/2507.12433'
+image: '/images/flow.jpg'
 citation: 'Fahimeh Orvati Nia, Hai Lin. (2025). &quot;Traffic-Aware Pedestrian Intention Prediction.&quot; <i>American Control Conference (ACC) 2025</i>.'
 ---
 
