@@ -7,7 +7,7 @@ excerpt: 'An integrated multispectral phenotyping framework for high-throughput 
 date: 2026-02-27
 venue: 'bioRxiv (Under revision to Plant Phenome Journal)'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2026.02.25.707797'
-citation: 'Fahimeh Orvati Nia, Joshua Peeples, Seth C Murray, Andrew McFarland, Troy Vann, Shima Salehi, Robert Hardin, David D Baltensperger, Amir Ibrahim, J Alex Thomasson, Henry Fadamiro, Nithya K Subramanian, Nazar Oladepo, Uday Vysyaraju. (2026). &quot;A Data-Driven Image Extraction and Analysis Pipeline for Plant Phenotyping in Controlled Environments.&quot; <i>bioRxiv</i>. 2026.02.25.707797.'
+citation: '<b>Fahimeh Orvati Nia</b>, Joshua Peeples, Seth C Murray, Andrew McFarland, and colleagues. (2026). &quot;A Data-Driven Image Extraction and Analysis Pipeline for Plant Phenotyping in Controlled Environments.&quot; <i>bioRxiv</i>. 2026.02.25.707797.'
 ---
 
 Advances in automation, imaging, and artificial intelligence have enabled researchers to capture large volumes of high-quality plant data for understanding crop growth, stress, and genotype-by-environment interactions. While genomics has achieved remarkable throughput, phenotypic data acquisition remains a critical bottleneck for accelerating crop improvement and biological discovery.
