@@ -7,6 +7,7 @@ excerpt: 'An integrated multispectral phenotyping framework for high-throughput 
 date: 2026-02-27
 venue: 'bioRxiv (Under revision to Plant Phenome Journal)'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2026.02.25.707797'
+image: '/images/flow.jpg'
 citation: '<b>Fahimeh Orvati Nia</b>, Joshua Peeples, Seth C Murray, Andrew McFarland, and colleagues. (2026). &quot;A Data-Driven Image Extraction and Analysis Pipeline for Plant Phenotyping in Controlled Environments.&quot; <i>bioRxiv</i>. 2026.02.25.707797.'
 ---
 
