@@ -43,7 +43,7 @@ sidebar: false
   </div>
 </div>
 
-I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a href="https://engineering.tamu.edu/electrical/profiles/peeples-joshua.html">Dr. Joshua Peeples</a>, and affiliated with the <a href="https://avll.tamu.edu/">Advanced Vision and Learning Lab (AVLL)</a>. I earned my Master's degree in Electrical Engineering from the University of Notre Dame in 2025 and my Bachelor's degree in Electrical Engineering from Amirkabir University of Technology in 2020.
+I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a href="https://engineering.tamu.edu/electrical/profiles/peeples-joshua.html">Dr. Joshua Peeples</a>, and affiliated with the Advanced Vision and Learning Lab (AVLL). I earned my Master's degree in Electrical Engineering from the University of Notre Dame in 2025 and my Bachelor's degree in Electrical Engineering from Amirkabir University of Technology in 2020.
 
 ## Research Focus
 
@@ -55,6 +55,17 @@ I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a
 Looking ahead, I aim to develop <strong>smart, automated plant phenotyping systems</strong> that support data-driven agriculture.
 
 ## Publications
+
+<div style="display:flex; gap:16px; align-items:flex-start; margin: 14px 0;">
+  <div style="flex: 0 0 120px;">
+    <img src="{{ '/images/flow.jpg' | relative_url }}" alt="HORTSCIENCE" style="width:120px; height:80px; object-fit:cover; border-radius:8px; border:1px solid #e6e6e6;">
+  </div>
+  <div style="flex: 1;">
+    <div><a href="https://www.hortscience.org/"><strong>Integrating Multispectral Imaging and Low-Field Magnetic Resonance Imaging for Comprehensive Phenotyping of Horticultural Crops</strong></a></div>
+    <div>A. McFarland, L. Rossi, <strong>Fahimeh Orvati Nia</strong>, J. Peeples, A. Svyanek</div>
+    <div><em>HORTSCIENCE, 2025</em></div>
+  </div>
+</div>
 
 <div style="display:flex; gap:16px; align-items:flex-start; margin: 14px 0;">
   <div style="flex: 0 0 120px;">
@@ -97,17 +108,6 @@ Looking ahead, I aim to develop <strong>smart, automated plant phenotyping syste
     <div><a href="https://arxiv.org/abs/2507.12433"><strong>Traffic-aware pedestrian intention prediction</strong></a></div>
     <div><strong>Fahimeh Orvati Nia</strong>, Hai Lin</div>
     <div><em>American Control Conference (ACC), 2025</em></div>
-  </div>
-</div>
-
-<div style="display:flex; gap:16px; align-items:flex-start; margin: 14px 0;">
-  <div style="flex: 0 0 120px;">
-    <img src="{{ '/images/flow.jpg' | relative_url }}" alt="HORTSCIENCE" style="width:120px; height:80px; object-fit:cover; border-radius:8px; border:1px solid #e6e6e6;">
-  </div>
-  <div style="flex: 1;">
-    <div><strong>Integrating Multispectral Imaging and Low-Field Magnetic Resonance Imaging for Comprehensive Phenotyping of Horticultural Crops</strong></div>
-    <div>A. McFarland, L. Rossi, <strong>Fahimeh Orvati Nia</strong>, J. Peeples, A. Svyanek</div>
-    <div><em>HORTSCIENCE, 2025</em></div>
   </div>
 </div>
 
