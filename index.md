@@ -58,23 +58,23 @@ Looking ahead, I aim to develop <strong>smart, automated plant phenotyping syste
 
 <div style="display:flex; gap:16px; align-items:flex-start; margin: 14px 0;">
   <div style="flex: 0 0 120px;">
-    <img src="{{ '/images/flow.jpg' | relative_url }}" alt="HORTSCIENCE" style="width:120px; height:80px; object-fit:cover; border-radius:8px; border:1px solid #e6e6e6;">
-  </div>
-  <div style="flex: 1;">
-    <div><a href="https://www.hortscience.org/"><strong>Integrating Multispectral Imaging and Low-Field Magnetic Resonance Imaging for Comprehensive Phenotyping of Horticultural Crops</strong></a></div>
-    <div>A. McFarland, L. Rossi, <strong>Fahimeh Orvati Nia</strong>, J. Peeples, A. Svyanek</div>
-    <div><em>HORTSCIENCE, 2025</em></div>
-  </div>
-</div>
-
-<div style="display:flex; gap:16px; align-items:flex-start; margin: 14px 0;">
-  <div style="flex: 0 0 120px;">
     <img src="{{ '/images/flow.jpg' | relative_url }}" alt="Plant Phenotyping Pipeline" style="width:120px; height:80px; object-fit:cover; border-radius:8px; border:1px solid #e6e6e6;">
   </div>
   <div style="flex: 1;">
     <div><a href="https://www.biorxiv.org/content/10.1101/2026.02.25.707797"><strong>A Data-Driven Image Extraction and Analysis Pipeline for Plant Phenotyping in Controlled Environments</strong></a></div>
     <div><strong>Fahimeh Orvati Nia</strong>, Joshua Peeples, Seth C Murray, Andrew McFarland, and colleagues</div>
     <div><em>bioRxiv (Under revision to Plant Phenome Journal), 2026</em></div>
+  </div>
+</div>
+
+<div style="display:flex; gap:16px; align-items:flex-start; margin: 14px 0;">
+  <div style="flex: 0 0 120px;">
+    <img src="{{ '/images/flow.jpg' | relative_url }}" alt="HORTSCIENCE" style="width:120px; height:80px; object-fit:cover; border-radius:8px; border:1px solid #e6e6e6;">
+  </div>
+  <div style="flex: 1;">
+    <div><a href="https://www.hortscience.org/"><strong>Integrating Multispectral Imaging and Low-Field Magnetic Resonance Imaging for Comprehensive Phenotyping of Horticultural Crops</strong></a></div>
+    <div>A. McFarland, L. Rossi, <strong>Fahimeh Orvati Nia</strong>, J. Peeples, A. Svyanek</div>
+    <div><em>HORTSCIENCE, 2025</em></div>
   </div>
 </div>
 
