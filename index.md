@@ -76,6 +76,9 @@ Looking ahead, I aim to develop <strong>smart, automated plant phenotyping syste
 </div>
 
 <div style="display:flex; gap:16px; align-items:flex-start; margin: 14px 0;">
+  <div style="flex: 0 0 120px;">
+    <img src="{{ '/images/tpec.jpg' | relative_url }}" alt="TPEC 2026" style="width:120px; height:80px; object-fit:cover; border-radius:8px; border:1px solid #e6e6e6;">
+  </div>
   <div style="flex: 1;">
     <div><a href="https://arxiv.org/abs/2601.09701"><strong>Evaluating GAN-LSTM for Smart Meter Anomaly Detection in Power Systems</strong></a></div>
     <div><strong>Fahimeh Orvati Nia</strong>, S. Salehi, J. Peeples</div>
@@ -84,6 +87,9 @@ Looking ahead, I aim to develop <strong>smart, automated plant phenotyping syste
 </div>
 
 <div style="display:flex; gap:16px; align-items:flex-start; margin: 14px 0;">
+  <div style="flex: 0 0 120px;">
+    <img src="{{ '/images/wacv.png' | relative_url }}" alt="WACV 2026 Workshop" style="width:120px; height:80px; object-fit:cover; border-radius:8px; border:1px solid #e6e6e6;">
+  </div>
   <div style="flex: 1;">
     <div><a href="https://arxiv.org/abs/2510.25077"><strong>Neighborhood Feature Pooling for Remote Sensing Image Classification</strong></a></div>
     <div><strong>Fahimeh Orvati Nia</strong>, Joshua Peeples, et al.</div>
