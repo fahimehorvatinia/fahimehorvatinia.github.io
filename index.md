@@ -49,6 +49,7 @@ I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a
 
 - <strong>Multimodal AI and vision-language models</strong> for grounded image understanding and segmentation
 - <strong>Deep learning and self-supervised representation learning</strong> for limited-label data
+- <strong>Generative AI and deep neural architectures</strong>, including CNNs, vision transformers, GANs, and LSTM and sequence models
 - <strong>Foundation models, efficient model adaptation, and mixture-of-experts methods</strong>
 - <strong>End-to-end machine learning and data analysis pipelines</strong>, from preprocessing and feature extraction to evaluation, visualization, and deployment
 - <strong>Computer vision</strong> for segmentation, classification, detection, tracking, and keypoint estimation
@@ -65,14 +66,6 @@ I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a
     <div><a href="https://www.biorxiv.org/content/10.1101/2026.02.25.707797"><strong>A Data-Driven Image Extraction and Analysis Pipeline for Plant Phenotyping in Controlled Environments</strong></a></div>
     <div><strong>Fahimeh Orvati Nia</strong>, Joshua Peeples, Seth C Murray, Andrew McFarland, and colleagues</div>
     <div><em>bioRxiv (Under revision to Plant Phenome Journal), 2026</em></div>
-  </div>
-</div>
-
-<div style="display:flex; gap:16px; align-items:flex-start; margin: 14px 0;">
-  <div style="flex: 1;">
-    <div><a href="https://www.hortscience.org/"><strong>Integrating Multispectral Imaging and Low-Field Magnetic Resonance Imaging for Comprehensive Phenotyping of Horticultural Crops</strong></a></div>
-    <div>A. McFarland, L. Rossi, <strong>Fahimeh Orvati Nia</strong>, J. Peeples, A. Svyanek</div>
-    <div><em>HORTSCIENCE, 2025</em></div>
   </div>
 </div>
 
@@ -109,10 +102,21 @@ I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a
   </div>
 </div>
 
+## Software & Projects
+
+<div style="display:flex; gap:16px; align-items:flex-start; margin: 14px 0;">
+  <div style="flex: 1;">
+    <div><a href="https://precisionplantphenotyping.com/"><strong>Precision Plant Phenotyping</strong></a>, a web application that brings the plant-phenotyping data-analysis pipeline online, letting researchers and scientists run image extraction and analysis directly in the browser.</div>
+    <div>Built and deployed end to end (Vue.js, JavaScript, Python, REST API, Docker, Nginx, and AWS on Amazon EC2 with S3 storage). Live at <a href="https://precisionplantphenotyping.com/">precisionplantphenotyping.com</a>.</div>
+  </div>
+</div>
+
 ## Certifications
 
-- <a href="https://coursera.org/share/0715ffa61acd34c9413973a69ad62c31"><strong>Neural Networks and Deep Learning</strong></a>, DeepLearning.AI (Coursera), Oct 21, 2021
-- <a href="https://coursera.org/share/43254a83148164e470e186f53668b07c"><strong>Machine Learning</strong></a>, Stanford University (Coursera), Oct 17, 2021
+- <a href="https://learn.nvidia.com/certificates?id=44skqvlFQmaopA9S0WoCrg"><strong>Building RAG Agents with LLMs</strong></a>, NVIDIA, May 2026
+- <a href="https://learn.nvidia.com/certificates?id=Bg2Zpz1-QYm4_oz7rheibw"><strong>Adding Knowledge to LLMs</strong></a>, NVIDIA, Jan 2026
+- <a href="https://coursera.org/share/0715ffa61acd34c9413973a69ad62c31"><strong>Neural Networks and Deep Learning</strong></a>, DeepLearning.AI (Coursera), Oct 2021
+- <a href="https://coursera.org/share/43254a83148164e470e186f53668b07c"><strong>Machine Learning</strong></a>, Stanford University (Coursera), Oct 2021
 
 ## Honors and Awards
 
