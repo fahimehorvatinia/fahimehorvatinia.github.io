@@ -8,7 +8,7 @@ sidebar: false
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 30px;">
-    <img src="{{ '/images/profile.jpg' | relative_url }}" alt="Fahimeh Orvati Nia" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;">
+    <img src="{{ '/images/FOrvatinia.png' | relative_url }}" alt="Fahimeh Orvati Nia" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;">
   </div>
   <div style="flex: 1;">
     <h2 style="margin-top: 0; margin-bottom: 10px;">Fahimeh Orvati Nia</h2>
@@ -47,12 +47,13 @@ I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a
 
 ## Research Focus
 
-- <strong>Computer vision</strong> for <strong>2D multispectral</strong> plant phenotyping
-- <strong>Image classification</strong> and <strong>feature aggregation (pooling)</strong>
-- <strong>Machine learning</strong> for agricultural imaging and decision support
-- <strong>Human behavior modeling</strong> and pedestrian intent prediction
-
-Looking ahead, I aim to develop <strong>smart, automated plant phenotyping systems</strong> that support data-driven agriculture.
+- <strong>Multimodal AI and vision-language models</strong> for grounded image understanding and segmentation
+- <strong>Deep learning and self-supervised representation learning</strong> for limited-label data
+- <strong>Foundation models, efficient model adaptation, and mixture-of-experts methods</strong>
+- <strong>End-to-end machine learning and data analysis pipelines</strong>, from preprocessing and feature extraction to evaluation, visualization, and deployment
+- <strong>Computer vision</strong> for segmentation, classification, detection, tracking, and keypoint estimation
+- <strong>Predictive modeling and anomaly detection</strong> for image, multispectral, time-series, and spatiotemporal data
+- <strong>Scientific AI and decision-support systems</strong> for agriculture, remote sensing, energy, and human behavior analysis
 
 ## Publications
 
