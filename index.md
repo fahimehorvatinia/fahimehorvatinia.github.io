@@ -6,14 +6,28 @@ author_profile: false
 sidebar: false
 ---
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 150px; margin-right: 30px;">
-    <img src="{{ '/images/FOrvatinia.png' | relative_url }}" alt="Fahimeh Orvati Nia" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;">
-  </div>
-  <div style="flex: 1;">
-    <h2 style="margin-top: 0; margin-bottom: 10px;">Fahimeh Orvati Nia</h2>
+<style>
+.pf-banner { position: relative; margin: 0 0 74px; }
+.pf-banner .cover { width: 100%; height: 200px; object-fit: cover; object-position: center 60%; border-radius: 12px; display: block; }
+.pf-banner .avatar { position: absolute; left: 8px; bottom: -56px; width: 132px; height: 132px; border-radius: 50%; object-fit: cover; border: 4px solid #fff; box-shadow: 0 2px 10px rgba(0,0,0,0.2); background: #fff; }
+.pf-info { margin: 0 0 22px; }
+.pf-info h2 { margin: 0 0 8px; border-bottom: none; padding-bottom: 0; }
+@media (max-width: 600px) {
+  .pf-banner { margin-bottom: 62px; }
+  .pf-banner .cover { height: 140px; }
+  .pf-banner .avatar { width: 104px; height: 104px; bottom: -46px; }
+}
+</style>
+
+<div class="pf-banner">
+  <img class="cover" src="{{ '/images/photo_2026-07-10_17-22-42.jpg' | relative_url }}" alt="">
+  <img class="avatar" src="{{ '/images/FOrvatinia.png' | relative_url }}" alt="Fahimeh Orvati Nia">
+</div>
+
+<div class="pf-info">
+  <h2>Fahimeh Orvati Nia</h2>
     <p style="margin: 5px 0;"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true" title="Location"></i>Texas A&M University</p>
-    <ul class="social-icons" style="margin: 5px 0; padding: 0; list-style: none; display: flex; gap: 12px; align-items: center;">
+    <ul class="social-icons" style="margin: 8px 0 0; padding: 0; list-style: none; display: flex; gap: 12px; align-items: center;">
       <li>
         <a href="mailto:fahimehorvatinia@tamu.edu" aria-label="Email" title="Email">
           <i class="fas fa-envelope" aria-hidden="true"></i><span class="sr-only">Email</span>
@@ -40,7 +54,6 @@ sidebar: false
         </a>
       </li>
     </ul>
-  </div>
 </div>
 
 I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a href="https://engineering.tamu.edu/electrical/profiles/peeples-joshua.html">Dr. Joshua Peeples</a>, and affiliated with the Advanced Vision and Learning Lab (AVLL). I earned my Master's degree in Electrical Engineering from the University of Notre Dame in 2025 and my Bachelor's degree in Electrical Engineering from Amirkabir University of Technology in 2020.
