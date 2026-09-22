@@ -9,7 +9,7 @@ sidebar: false
 <style>
 .pf-banner { position: relative; margin: 0 0 74px; }
 .pf-banner .cover { width: 100%; height: 200px; object-fit: cover; object-position: center 60%; border-radius: 12px; display: block; }
-.pf-banner .avatar { position: absolute; left: 8px; bottom: -56px; width: 132px; height: 132px; border-radius: 50%; object-fit: cover; border: 4px solid #fff; box-shadow: 0 2px 10px rgba(0,0,0,0.2); background: #fff; }
+.pf-banner .avatar { position: absolute; left: 8px; bottom: -56px; width: 132px; height: 132px; border-radius: 50%; object-fit: cover; border: 4px solid #fff; box-shadow: 0 2px 10px rgba(0,0,0,0.2); }
 .pf-info { margin: 0 0 22px; }
 .pf-info h2 { margin: 0 0 8px; border-bottom: none; padding-bottom: 0; }
 @media (max-width: 600px) {
@@ -56,7 +56,7 @@ sidebar: false
     </ul>
 </div>
 
-I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a href="https://engineering.tamu.edu/electrical/profiles/peeples-joshua.html">Dr. Joshua Peeples</a>, and affiliated with the Advanced Vision and Learning Lab (AVLL). I earned my Master's degree in Electrical Engineering from the University of Notre Dame in 2025 and my Bachelor's degree in Electrical Engineering from Amirkabir University of Technology in 2020.
+I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a href="https://engineering.tamu.edu/electrical/profiles/peeples-joshua.html">Dr. Joshua Peeples</a>, and affiliated with the <a href="https://avll.tamu.edu/">Advanced Vision and Learning Lab (AVLL)</a>. I earned my Master’s degree in Electrical Engineering from the University of Notre Dame in 2025 and my Bachelor’s degree in Electrical Engineering from Amirkabir University of Technology in 2020.
 
 ## Research Focus
 
@@ -78,7 +78,7 @@ I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a
   <div style="flex: 1;">
     <div><a href="https://www.biorxiv.org/content/10.1101/2026.02.25.707797"><strong>A Data-Driven Image Extraction and Analysis Pipeline for Plant Phenotyping in Controlled Environments</strong></a></div>
     <div><strong>Fahimeh Orvati Nia</strong>, Joshua Peeples, Seth C Murray, Andrew McFarland, and colleagues</div>
-    <div><em>bioRxiv (Under revision to Plant Phenome Journal), 2026</em></div>
+    <div><em>bioRxiv; accepted to Plant Phenome Journal, 2026</em></div>
   </div>
 </div>
 
