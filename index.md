@@ -56,7 +56,7 @@ sidebar: false
     </ul>
 </div>
 
-I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a href="https://engineering.tamu.edu/electrical/profiles/peeples-joshua.html">Dr. Joshua Peeples</a>, and affiliated with the <a href="https://avll.tamu.edu/">Advanced Vision and Learning Lab (AVLL)</a>. I earned my Master’s degree in Electrical Engineering from the University of Notre Dame in 2025 and my Bachelor’s degree in Electrical Engineering from Amirkabir University of Technology in 2020.
+I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a href="https://engineering.tamu.edu/electrical/profiles/peeples-joshua.html">Dr. Joshua Peeples</a>, and affiliated with the <a href="https://avls.tamu.edu/">Advanced Vision and Learning Lab (AVLL)</a>. I earned my Master's degree in Electrical Engineering from the University of Notre Dame in 2025 and my Bachelor's degree in Electrical Engineering from Amirkabir University of Technology in 2020.
 
 ## Research Focus
 
@@ -133,7 +133,6 @@ I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a
 
 ## Honors and Awards
 
-- Top rank in Iranian National Entrance Exam for Master's programs
 - PlantCV Workshop + NAPPN 2026 Travel Award
 
 ## Talks and Presentations
