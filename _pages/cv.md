@@ -8,7 +8,7 @@ author_profile: true
 ## Curriculum Vitae
 
 **Fahimeh Orvati Nia**  
-College Station, TX | [fahimehorvatinia@tamu.edu](mailto:fahimehorvatinia@tamu.edu) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=NI_iB4sAAAAJ) | [LinkedIn](https://www.linkedin.com/in/fahimeh-orvati-nia/) | [GitHub](https://github.com/fahimehorvatinia)
+College Station, TX | [fahimehorvatinia@tamu.edu](mailto:fahimehorvatinia@tamu.edu) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=NI_iB4sAAAAJ) | [LinkedIn](https://www.linkedin.com/in/fahimeh-orvati-nia-40b727392/)
 
 ## Education
 
@@ -82,4 +82,3 @@ A. McFarland, L. Rossi, F. Nia, J. Peeples, A. Svyanek
 
 - National full undergraduate scholarship in Iran
 - Ranked top in Computational Intelligence and Communication Systems courses during B.Sc.
-- Top rank in Iranian National Entrance Exam for Master's programs
