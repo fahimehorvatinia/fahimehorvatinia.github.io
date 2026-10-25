@@ -153,13 +153,11 @@ Courses: Introduction to Electrical Engineering, Signals and Systems
 
 **Teaching Assistant**  
 NVIDIA Workshop  
-*2026*  
-Supported workshop instruction, assisted participants with hands-on learning, and contributed to a smooth learning experience during the NVIDIA training session.
+*2026*
 
 **Technical Chair**  
 TPEC 2027  
-*2027*  
-Served as technical chair for the TPEC 2027 conference, helping coordinate technical activities and support the conference program.
+*2027*
 
 **Peer Reviewer**  
 LXAI-NeurIPS 2025, IEEE RA-L, ICRA 2026, ACC 2025, CCTA 2025
