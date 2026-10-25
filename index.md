@@ -78,7 +78,7 @@ I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a
   <div style="flex: 1;">
     <div><a href="https://www.biorxiv.org/content/10.1101/2026.02.25.707797"><strong>A Data-Driven Image Extraction and Analysis Pipeline for Plant Phenotyping in Controlled Environments</strong></a></div>
     <div><strong>Fahimeh Orvati Nia</strong>, Joshua Peeples, Seth C Murray, Andrew McFarland, and colleagues</div>
-    <div><em>bioRxiv; accepted to Plant Phenome Journal, 2026</em></div>
+    <div><em>accepted to Plant Phenome Journal, 2026</em></div>
   </div>
 </div>
 
