@@ -160,7 +160,7 @@ TPEC 2027
 *2027*
 
 **Peer Reviewer**  
-LXAI-NeurIPS 2025, IEEE RA-L, ICRA 2026, ACC 2025, CCTA 2025
+NeurIPS 2026 Ethical Reviewer, LXAI-NeurIPS 2025, IEEE RA-L, ICRA 2026, ACC 2025, CCTA 2025
 
 ## Student Mentoring
 
