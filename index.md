@@ -56,7 +56,7 @@ sidebar: false
     </ul>
 </div>
 
-I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a href="https://engineering.tamu.edu/electrical/profiles/peeples-joshua.html">Dr. Joshua Peeples</a>, and affiliated with the <a href="https://avls.tamu.edu/">Advanced Vision and Learning Lab (AVLL)</a>. I earned my Master's degree in Electrical Engineering from the University of Notre Dame in 2025 and my Bachelor's degree in Electrical Engineering from Amirkabir University of Technology in 2020.
+I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a href="https://engineering.tamu.edu/electrical/profiles/peeples-joshua.html">Dr. Joshua Peeples</a>, and affiliated with the <a href="https://avll.tamu.edu/">Advanced Vision and Learning Lab (AVLL)</a>. I earned my Master's degree in Electrical Engineering from the University of Notre Dame in 2025 and my Bachelor's degree in Electrical Engineering from Amirkabir University of Technology in 2020.
 
 ## Research Focus
 
@@ -150,6 +150,16 @@ I'm a PhD student in Computer Engineering at Texas A&M University, advised by <a
 <a href="https://www.nd.edu/">University of Notre Dame</a>  
 *Fall 2023, Spring 2024*  
 Courses: Introduction to Electrical Engineering, Signals and Systems
+
+**Teaching Assistant**  
+NVIDIA Workshop  
+*2026*  
+Supported workshop instruction, assisted participants with hands-on learning, and contributed to a smooth learning experience during the NVIDIA training session.
+
+**Technical Chair**  
+TPEC 2027  
+*2027*  
+Served as technical chair for the TPEC 2027 conference, helping coordinate technical activities and support the conference program.
 
 **Peer Reviewer**  
 LXAI-NeurIPS 2025, IEEE RA-L, ICRA 2026, ACC 2025, CCTA 2025
