@@ -54,6 +54,12 @@ layout: compress
   <body>
     {{ content }}
 
+    <script>
+      document.querySelectorAll('.pf-banner .avatar').forEach(function (avatar) {
+        avatar.src = "{{ '/images/Forvatinia.png' | relative_url }}";
+      });
+    </script>
+
     <div class="page__footer">
       <footer>
         <p>&copy; {{ "now" | date: "%Y" }} {{ site.name | default: site.title }}</p>
